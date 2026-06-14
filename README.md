@@ -8,18 +8,6 @@
    * [User Workflow](#user-workflow)
 5. [Additional Information](#additional-information)
 
----
-# SupermarketApp – Supermarket Management System
-
-## Table of Contents
-
-* Project Description
-* Key Features
-* Installation Guide
-* Usage Instructions
-
-  * User Workflow
-* Additional Information
 
 ## Project Description
 
