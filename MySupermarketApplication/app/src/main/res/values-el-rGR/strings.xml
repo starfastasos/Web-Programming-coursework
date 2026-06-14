@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Όνομα Εφαρμογής -->
+    <string name="app_name">Εφαρμογή Supermarket</string>
+
+    <!-- Γενικά Στοιχεία UI & Περιγραφές -->
+    <string name="back_button">Πίσω</string>
+    <string name="back_button_description">Πλοήγηση πίσω στην προηγούμενη οθόνη</string>
+    <string name="wishlist_icon_description">Λίστα Επιθυμιών</string>
+    <string name="cart_icon_description">Καλάθι Αγορών</string>
+    <string name="purchase_history_icon_description">Ιστορικό Αγορών</string>
+    <string name="profile_icon_description">Εικονίδιο Προφίλ Χρήστη</string>
+
+    <!-- Ετικέτες Λεπτομερειών Προϊόντος -->
+    <string name="description_label">Περιγραφή</string>
+    <string name="nutritional_info_label">Διατροφική Πληροφορία</string>
+    <string name="ingredients_label">Συστατικά</string>
+    <string name="ingredients_prefix">Συστατικά:</string>
+    <string name="product_description_prefix">Περιγραφή:</string>
+    <string name="nutritional_info_prefix">Διατροφική Αξία:</string>
+    <string name="price_prefix">Τιμή:</string>
+    <string name="category_prefix">Κατηγορία:</string>
+    <string name="availability_prefix">Διαθεσιμότητα:</string>
+    <string name="offer_prefix">Προσφορά:</string>
+
+    <!-- Οθόνη Λίστας Προϊόντων -->
+    <string name="search_products_label">Αναζήτηση προϊόντων</string>
+    <string name="no_products_available">Δεν υπάρχουν διαθέσιμα προϊόντα.</string>
+    <string name="all_categories_label">Όλες οι Κατηγορίες</string>
+    <string name="offers_label">Προσφορές</string>
+    <string name="sort_name_asc">Όνομα (Α-Ω)</string>
+    <string name="sort_name_desc">Όνομα (Ω-Α)</string>
+    <string name="sort_price_asc">Τιμή (Αύξουσα)</string>
+    <string name="sort_price_desc">Τιμή (Φθίνουσα)</string>
+
+    <!-- Οθόνη Λεπτομερειών Προϊόντος -->
+    <string name="add_to_cart">Προσθήκη στο Καλάθι</string>
+    <string name="add_to_wishlist">Προσθήκη στα Αγαπημένα</string>
+    <string name="remove_from_wishlist">Αφαίρεση από Αγαπημένα</string>
+
+    <!-- Οθόνη Καλαθιού Αγορών -->
+    <string name="total_cost_prefix">Συνολικό Κόστος:</string>
+    <string name="checkout_button">Ολοκλήρωση Αγοράς</string>
+    <string name="empty_cart_message">Το καλάθι σας είναι άδειο.</string>
+    <string name="edit_quantity">Επεξεργασία Ποσότητας</string>
+    <string name="remove_item">Αφαίρεση Αντικειμένου</string>
+
+    <!-- Οθόνη Λίστας Επιθυμιών -->
+    <string name="empty_wishlist_message">Η λίστα επιθυμιών σας είναι άδεια.</string>
+
+    <!-- Οθόνη Ιστορικού Αγορών -->
+    <string name="purchase_history_title">Ιστορικό Αγορών</string>
+    <string name="no_purchase_history">Δεν υπάρχουν αγορές στο ιστορικό σας.</string>
+    <string name="date_prefix">Ημερομηνία:</string>
+    <string name="total_prefix">Σύνολο:</string>
+    <string name="repeat_purchase_button">Επανάληψη Αγοράς</string>
+    <string name="purchase_repeated_message">Η αγορά προστέθηκε ξανά στο καλάθι!</string>
+
+    <!-- Οθόνη Προφίλ Χρήστη -->
+    <string name="profile_title">Το Προφίλ μου</string>
+    <string name="username_label">Όνομα Χρήστη: %s</string>
+    <string name="email_label">Email: %s</string>
+    <string name="statistics_button">Στατιστικά Δαπανών</string>
+    <string name="exit_button">Έξοδος</string>
+
+    <!-- Οθόνη Στατιστικών Δαπανών -->
+    <string name="statistics_title">Στατιστικά Δαπανών</string>
+    <string name="no_statistics_available">Δεν υπάρχουν δεδομένα δαπανών.</string>
+    <string name="monthly_expenses_label">Μηνιαία</string>
+    <string name="weekly_expenses_label">Εβδομαδιαία</string>
+    <string name="no_monthly_statistics_available">Δεν υπάρχουν ακόμη διαθέσιμα δεδομένα μηνιαίων δαπανών.</string>
+    <string name="no_weekly_statistics_available">Δεν υπάρχουν ακόμη διαθέσιμα εβδομαδιαία δεδομένα δαπανών.</string>
+    <string name="start_shopping_to_see_stats">Ξεκινήστε τις αγορές σας.</string>
+    <string name="week_of_year_format">Εβδομάδα %1$d του %2$s</string>
+    <string name="total_monthly_expenses">Σύνολο μηνιαίων δαπανών</string>
+    <string name="total_weekly_expenses">Σύνολο εβδομαδιαίων δαπανών</string>
+
+    <!-- Μονάδες Προϊόντων -->
+    <string name="unit_per_kilo">€/κιλό</string>
+    <string name="unit_per_piece">€/τεμάχιο</string>
+    <string name="unit_per_liter">€/λίτρο</string>
+    <string name="unit_per_dozen">€/εξάδα</string>
+    <string name="unit_per_package">€/πακέτο</string>
+
+    <!-- Κατηγορίες Προϊόντων -->
+    <string name="category_dairy">Γαλακτοκομικά</string>
+    <string name="category_fresh_food">Φρέσκα Τρόφιμα</string>
+    <string name="category_cleaning">Καθαριστικά</string>
+    <string name="category_frozen">Κατεψυγμένα</string>
+    <string name="category_beverages">Ροφήματα</string>
+    <string name="category_meat">Κρέας</string>
+    <string name="category_oils_vinegars">Έλαια &amp; Ξύδια</string>
+    <string name="category_fruits_vegetables">Φρούτα &amp; Λαχανικά</string>
+    <string name="category_snacks">Γλυκά &amp; Σνακ</string>
+    <string name="category_household">Είδη Σπιτιού</string>
+    <string name="category_dry_food">Ξηρά Τρόφιμα</string>
+    <string name="category_pasta_rice">Ζυμαρικά &amp; Ρύζι</string>
+    <string name="category_bakery">Είδη Αρτοποιίας</string>
+
+    <!-- Κοινά Ονόματα Προϊόντων (για αρχικά δεδομένα ή εμφάνιση) -->
+    <string name="product_milk">Γάλα</string>
+    <string name="product_bread">Ψωμί</string>
+    <string name="product_eggs">Αυγά</string>
+    <string name="product_cheese">Τυρί</string>
+    <string name="product_yogurt">Γιαούρτι</string>
+    <string name="product_chicken">Κοτόπουλο</string>
+    <string name="product_beef">Μοσχάρι</string>
+    <string name="product_fish">Ψάρι</string>
+    <string name="product_apples">Μήλα</string>
+    <string name="product_oranges">Πορτοκάλια</string>
+    <string name="product_tomatoes">Ντομάτες</string>
+    <string name="product_potatoes">Πατάτες</string>
+    <string name="product_pasta">Ζυμαρικά</string>
+    <string name="product_rice">Ρύζι</string>
+    <string name="product_water">Νερό</string>
+    <string name="product_dish_soap">Υγρό Πιάτων</string>
+    <string name="product_frozen_peas">Κατεψυγμένος Αρακάς</string>
+    <string name="product_beer">Μπύρα</string>
+    <string name="product_ground_beef">Κιμάς Μοσχαρίσιος</string>
+    <string name="product_pork_chops">Χοιρινές Μπριζόλες</string>
+    <string name="product_balsamic_vinegar">Βαλσάμικο Ξύδι</string>
+    <string name="product_chocolate">Σοκολάτα</string>
+    <string name="product_potato_chips">Πατατάκια</string>
+    <string name="product_paper_towels">Χαρτί Κουζίνας</string>
+    <string name="product_cereal">Δημητριακά</string>
+    <string name="product_croissant">Κρουασάν</string>
+
+    <!-- Μηνύματα Επιτυχίας (Ανατροφοδότηση Χρήστη) -->
+    <string name="purchase_successful">Η αγορά ολοκληρώθηκε με επιτυχία!</string>
+    <string name="success_removing_from_wishlist">Το προϊόν αφαιρέθηκε από τη λίστα επιθυμιών</string>
+    <string name="success_add_to_cart">Το προϊόν προστέθηκε στο καλάθι!</string>
+    <string name="success_add_to_wishlist">Το προϊόν προστέθηκε στη λίστα επιθυμιών!</string>
+
+    <!-- Μηνύματα Σφαλμάτων (Ανατροφοδότηση Χρήστη) -->
+    <string name="error_removing_from_wishlist">Σφάλμα κατά την αφαίρεση από τη λίστα επιθυμιών.</string>
+    <string name="error_during_checkout">Σφάλμα κατά την ολοκλήρωση της αγοράς. Παρακαλώ δοκιμάστε ξανά.</string>
+    <string name="error_updating_cart">Σφάλμα κατά την ενημέρωση του καλαθιού.</string>
+    <string name="error_add_to_cart">Αποτυχία προσθήκης προϊόντος στο καλάθι.</string>
+    <string name="error_repeat_purchase">Αποτυχία επανάληψης αγοράς.</string>
+    <string name="error_add_to_wishlist">Αποτυχία προσθήκης προϊόντος στη λίστα επιθυμιών.</string>
+</resources>

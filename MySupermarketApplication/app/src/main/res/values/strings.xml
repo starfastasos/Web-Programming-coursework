@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">Supermarket App</string>
+
+    <!-- General UI Elements & Descriptions -->
+    <string name="back_button">Back</string>
+    <string name="back_button_description">Navigate back to the previous screen</string>
+    <string name="wishlist_icon_description">Wishlist</string>
+    <string name="cart_icon_description">Shopping Cart</string>
+    <string name="purchase_history_icon_description">Purchase History</string>
+    <string name="profile_icon_description">User Profile icon</string>
+
+    <!-- Product Details Labels -->
+    <string name="description_label">Description</string>
+    <string name="nutritional_info_label">Nutritional Information</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="ingredients_prefix">Ingredients:</string>
+    <string name="product_description_prefix">Description:</string>
+    <string name="nutritional_info_prefix">Nutritional Info:</string>
+    <string name="price_prefix">Price:</string>
+    <string name="category_prefix">Category:</string>
+    <string name="availability_prefix">Availability:</string>
+    <string name="offer_prefix">Offer:</string>
+
+    <!-- Product Listing Screen -->
+    <string name="search_products_label">Search products</string>
+    <string name="no_products_available">No products available.</string>
+    <string name="all_categories_label">All Categories</string>
+    <string name="offers_label">Offers</string>
+    <string name="sort_name_asc">Name (A-Z)</string>
+    <string name="sort_name_desc">Name (Z-A)</string>
+    <string name="sort_price_asc">Price (Low to High)</string>
+    <string name="sort_price_desc">Price (High to Low)</string>
+
+    <!-- Product Detail Screen -->
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="remove_from_wishlist">Remove from Wishlist</string>
+
+    <!-- Shopping Cart Screen -->
+    <string name="total_cost_prefix">Total Cost:</string>
+    <string name="checkout_button">Checkout</string>
+    <string name="empty_cart_message">Your cart is empty.</string>
+    <string name="edit_quantity">Edit Quantity</string>
+    <string name="remove_item">Remove Item</string>
+
+    <!-- Wishlist Screen -->
+    <string name="empty_wishlist_message">Your wishlist is empty.</string>
+
+    <!-- Purchase History Screen -->
+    <string name="purchase_history_title">Purchase History</string>
+    <string name="no_purchase_history">No purchases in your history.</string>
+    <string name="date_prefix">Date:</string>
+    <string name="total_prefix">Total:</string>
+    <string name="repeat_purchase_button">Repeat Purchase</string>
+    <string name="purchase_repeated_message">Purchase added back to cart!</string>
+
+    <!-- User Profile Screen -->
+    <string name="profile_title">My Profile</string>
+    <string name="username_label">Username: %s</string>
+    <string name="email_label">Email: %s</string>
+    <string name="statistics_button">Spending Statistics</string>
+    <string name="exit_button">Exit</string>
+
+    <!-- Spending Statistics Screen -->
+    <string name="statistics_title">Spending Statistics</string>
+    <string name="no_statistics_available">No spending data available yet.</string>
+    <string name="monthly_expenses_label">Monthly</string>
+    <string name="weekly_expenses_label">Weekly</string>
+    <string name="no_monthly_statistics_available">No monthly spending data available yet.</string>
+    <string name="no_weekly_statistics_available">No weekly spending data available yet.</string>
+    <string name="start_shopping_to_see_stats">Start shopping.</string>
+    <string name="week_of_year_format">Week %1$d of %2$s</string>
+    <string name="total_monthly_expenses">Total monthly expenses</string>
+    <string name="total_weekly_expenses">Total weekly expenses</string>
+
+    <!-- Product Units -->
+    <string name="unit_per_kilo">€/kilo</string>
+    <string name="unit_per_piece">€/piece</string>
+    <string name="unit_per_liter">€/liter</string>
+    <string name="unit_per_dozen">€/dozen</string>
+    <string name="unit_per_package">€/package</string>
+
+    <!-- Product Categories -->
+    <string name="category_dairy">Dairy</string>
+    <string name="category_fresh_food">Fresh Food</string>
+    <string name="category_cleaning">Cleaning Products</string>
+    <string name="category_frozen">Frozen</string>
+    <string name="category_beverages">Beverages</string>
+    <string name="category_meat">Meat</string>
+    <string name="category_oils_vinegars">Oils &amp; Vinegars</string>
+    <string name="category_fruits_vegetables">Fruits &amp; Vegetables</string>
+    <string name="category_snacks">Snacks &amp; Sweets</string>
+    <string name="category_household">Household Items</string>
+    <string name="category_dry_food">Dry Food</string>
+    <string name="category_pasta_rice">Pasta &amp; Rice</string>
+    <string name="category_bakery">Bakery</string>
+
+    <!-- Common Product Names (for initial data or display) -->
+    <string name="product_milk">Milk</string>
+    <string name="product_bread">Bread</string>
+    <string name="product_eggs">Eggs</string>
+    <string name="product_cheese">Cheese</string>
+    <string name="product_yogurt">Yogurt</string>
+    <string name="product_chicken">Chicken</string>
+    <string name="product_beef">Beef</string>
+    <string name="product_fish">Fish</string>
+    <string name="product_apples">Apples</string>
+    <string name="product_oranges">Oranges</string>
+    <string name="product_tomatoes">Tomatoes</string>
+    <string name="product_potatoes">Potatoes</string>
+    <string name="product_pasta">Pasta</string>
+    <string name="product_rice">Rice</string>
+    <string name="product_water">Water</string>
+    <string name="product_dish_soap">Dish Soap</string>
+    <string name="product_frozen_peas">Frozen Peas</string>
+    <string name="product_beer">Beer</string>
+    <string name="product_ground_beef">Ground Beef</string>
+    <string name="product_pork_chops">Pork Chops</string>
+    <string name="product_balsamic_vinegar">Balsamic Vinegar</string>
+    <string name="product_chocolate">Chocolate</string>
+    <string name="product_potato_chips">Potato Chips</string>
+    <string name="product_paper_towels">Paper Towels</string>
+    <string name="product_cereal">Cereal</string>
+    <string name="product_croissant">Croissant</string>
+
+    <!-- Success Messages (User Feedback) -->
+    <string name="purchase_successful">Purchase completed successfully!</string>
+    <string name="success_removing_from_wishlist">Item removed from wishlist</string>
+    <string name="success_add_to_cart">Product added to cart!</string>
+    <string name="success_add_to_wishlist">Product added to wishlist!</string>
+
+    <!-- Error Messages (User Feedback) -->
+    <string name="error_removing_from_wishlist">Error removing item from wishlist</string>
+    <string name="error_during_checkout">Error processing your checkout</string>
+    <string name="error_updating_cart">Error updating cart item.</string>
+    <string name="error_add_to_cart">Failed to add product to cart.</string>
+    <string name="error_repeat_purchase">Failed to repeat purchase.</string>
+    <string name="error_add_to_wishlist">Failed to add product to wishlist.</string>
+</resources>
